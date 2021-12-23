@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "arc Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/itsunknown-12/Zaid-Vc-Player",
+    "repository": "https://github.com/Kishu07/vc-vc",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -37,12 +37,12 @@
         "ZAID_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "Superior_Support"
+            "value": "the_arc_music"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "Superior_bots"
+            "value": "the_arc_network"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
